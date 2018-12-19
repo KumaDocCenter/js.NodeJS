@@ -1,0 +1,6 @@
+CMDÃüÁî£º
+
+Ğı×ª£º
+gm convert -rotate 90 1.jpg 2.jpg
+
+gm convert -crop 100x100+50+60 1.jpg 3.jpg
